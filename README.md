@@ -1,2 +1,4 @@
-# order_form_team
+# Order FORM
+
+Простая система управлегния заказами выполненная на tkinter + Sql
  
